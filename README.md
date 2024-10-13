@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Serpenseth
 - 👀 I’m interested in creating programs that are useful and beneficial.
-- 🌱 I’m currently learning Python, but I have experience with Bash, C and C++ (in order of when I've learned those languages)
+- 🌱 I’m currently learning Python, but I have experience with Bash, C and C++ (I'm not claiming to be an expert)
 - 📫 How to reach me: enkisaur@tutanota.com
 - 😄 Pronouns: Male/Man/He
 - ⚡ Fun fact: I have never released any programs, publicly, until now! I'm a solo dev.
